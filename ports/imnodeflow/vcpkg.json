@@ -1,0 +1,10 @@
+{
+  "name": "imnodeflow",
+  "version-semver": "1.2.2",
+  "description": "Node based editor/blueprints for ImGui",
+  "homepage": "https://github.com/Fattorino/ImNodeFlow",
+  "license": "MIT",
+  "dependencies": [
+    "imgui"
+  ]
+}
